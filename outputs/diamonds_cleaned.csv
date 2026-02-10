@@ -1,0 +1,11 @@
+id,carat,cut,color,clarity,depth,table,price,price_per_carat,value_category,price_band
+1,0.23,Ideal,E,SI2,61.5,55,326,1417.39,Budget,<$500
+2,0.21,Premium,E,SI1,59.8,61,326,1552.38,Budget,<$500
+3,0.23,Good,E,VS1,56.9,65,327,1421.74,Budget,<$500
+4,0.29,Premium,I,VS2,62.4,58,334,1151.72,Budget,<$500
+5,0.31,Good,J,SI2,63.3,58,335,1080.65,Budget,<$500
+6,0.75,Ideal,D,VVS2,61.5,55,550,733.33,Budget,$500-$1k
+7,0.8,Premium,E,VS2,59.8,61,600,750.0,Budget,$500-$1k
+8,1.0,Premium,I,VS1,60.4,61,850,850.0,Budget,$500-$1k
+9,1.5,Ideal,D,VVS2,61.9,55,2100,1400.0,Budget,$2k+
+10,2.0,Premium,I,SI1,60.5,60,3500,1750.0,Budget,$2k+
